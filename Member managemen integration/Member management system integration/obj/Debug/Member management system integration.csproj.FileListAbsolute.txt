@@ -1,0 +1,107 @@
+F:\课设\Member management system integration\Member management system integration\bin\Debug\Member management system integration.exe.config
+F:\课设\Member management system integration\Member management system integration\bin\Debug\Member management system integration.exe
+F:\课设\Member management system integration\Member management system integration\bin\Debug\Member management system integration.pdb
+F:\课设\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.About_us.resources
+F:\课设\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.Administrator_login.resources
+F:\课设\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.Form1.resources
+F:\课设\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.Member_login.resources
+F:\课设\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.Membership_information.resources
+F:\课设\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.Personal_consumption_record.resources
+F:\课设\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.Properties.Resources.resources
+F:\课设\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.Records_of_consumption.resources
+F:\课设\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.The_new_member_registration.resources
+F:\课设\Member management system integration\Member management system integration\obj\Debug\Member management system integration.csproj.GenerateResource.Cache
+F:\课设\Member management system integration\Member management system integration\obj\Debug\Member management system integration.exe
+F:\课设\Member management system integration\Member management system integration\obj\Debug\Member management system integration.pdb
+D:\迅雷下载\QQPCMgr\1446869786\FileRecv\Member management system integration(1)\Member management system integration\bin\Debug\Member management system integration.exe.config
+D:\迅雷下载\QQPCMgr\1446869786\FileRecv\Member management system integration(1)\Member management system integration\obj\Debug\Member management system integration.exe
+D:\迅雷下载\QQPCMgr\1446869786\FileRecv\Member management system integration(1)\Member management system integration\obj\Debug\Member management system integration.pdb
+D:\迅雷下载\QQPCMgr\1446869786\FileRecv\Member management system integration(1)\Member management system integration\bin\Debug\Member management system integration.exe
+D:\迅雷下载\QQPCMgr\1446869786\FileRecv\Member management system integration(1)\Member management system integration\bin\Debug\Member management system integration.pdb
+D:\迅雷下载\QQPCMgr\1446869786\FileRecv\Member management system integration(1)\Member management system integration\obj\Debug\Member_management_system_integration.About_us.resources
+D:\迅雷下载\QQPCMgr\1446869786\FileRecv\Member management system integration(1)\Member management system integration\obj\Debug\Member_management_system_integration.Administrator_login.resources
+D:\迅雷下载\QQPCMgr\1446869786\FileRecv\Member management system integration(1)\Member management system integration\obj\Debug\Member_management_system_integration.Form1.resources
+D:\迅雷下载\QQPCMgr\1446869786\FileRecv\Member management system integration(1)\Member management system integration\obj\Debug\Member_management_system_integration.Member_login.resources
+D:\迅雷下载\QQPCMgr\1446869786\FileRecv\Member management system integration(1)\Member management system integration\obj\Debug\Member_management_system_integration.Membership_information.resources
+D:\迅雷下载\QQPCMgr\1446869786\FileRecv\Member management system integration(1)\Member management system integration\obj\Debug\Member_management_system_integration.Personal_consumption_record.resources
+D:\迅雷下载\QQPCMgr\1446869786\FileRecv\Member management system integration(1)\Member management system integration\obj\Debug\Member_management_system_integration.Properties.Resources.resources
+D:\迅雷下载\QQPCMgr\1446869786\FileRecv\Member management system integration(1)\Member management system integration\obj\Debug\Member_management_system_integration.Records_of_consumption.resources
+D:\迅雷下载\QQPCMgr\1446869786\FileRecv\Member management system integration(1)\Member management system integration\obj\Debug\Member_management_system_integration.The_new_member_registration.resources
+D:\迅雷下载\QQPCMgr\1446869786\FileRecv\Member management system integration(1)\Member management system integration\obj\Debug\Member management system integration.csproj.GenerateResource.Cache
+D:\迅雷下载\QQPCMgr\1446869786\FileRecv\Member management system integration\Member management system integration\Member management system integration\bin\Debug\Member management system integration.exe.config
+D:\迅雷下载\QQPCMgr\1446869786\FileRecv\Member management system integration\Member management system integration\Member management system integration\obj\Debug\Member management system integration.exe
+D:\迅雷下载\QQPCMgr\1446869786\FileRecv\Member management system integration\Member management system integration\Member management system integration\obj\Debug\Member management system integration.pdb
+D:\迅雷下载\QQPCMgr\1446869786\FileRecv\Member management system integration\Member management system integration\Member management system integration\bin\Debug\Member management system integration.exe
+D:\迅雷下载\QQPCMgr\1446869786\FileRecv\Member management system integration\Member management system integration\Member management system integration\bin\Debug\Member management system integration.pdb
+D:\迅雷下载\QQPCMgr\1446869786\FileRecv\Member management system integration\Member management system integration\Member management system integration\obj\Debug\Member management system integration.csprojResolveAssemblyReference.cache
+D:\迅雷下载\QQPCMgr\1446869786\FileRecv\Member management system integration\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.About_us.resources
+D:\迅雷下载\QQPCMgr\1446869786\FileRecv\Member management system integration\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.Administrator_login.resources
+D:\迅雷下载\QQPCMgr\1446869786\FileRecv\Member management system integration\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.Form1.resources
+D:\迅雷下载\QQPCMgr\1446869786\FileRecv\Member management system integration\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.Member_login.resources
+D:\迅雷下载\QQPCMgr\1446869786\FileRecv\Member management system integration\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.Membership_information.resources
+D:\迅雷下载\QQPCMgr\1446869786\FileRecv\Member management system integration\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.Personal_consumption_record.resources
+D:\迅雷下载\QQPCMgr\1446869786\FileRecv\Member management system integration\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.Properties.Resources.resources
+D:\迅雷下载\QQPCMgr\1446869786\FileRecv\Member management system integration\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.Records_of_consumption.resources
+D:\迅雷下载\QQPCMgr\1446869786\FileRecv\Member management system integration\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.The_new_member_registration.resources
+D:\迅雷下载\QQPCMgr\1446869786\FileRecv\Member management system integration\Member management system integration\Member management system integration\obj\Debug\Member management system integration.csproj.GenerateResource.Cache
+G:\Member management system integration\Member management system integration\bin\Debug\Member management system integration.exe.config
+G:\Member management system integration\Member management system integration\obj\Debug\Member management system integration.exe
+G:\Member management system integration\Member management system integration\obj\Debug\Member management system integration.pdb
+G:\Member management system integration\Member management system integration\bin\Debug\Member management system integration.exe
+G:\Member management system integration\Member management system integration\bin\Debug\Member management system integration.pdb
+G:\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.About_us.resources
+G:\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.Administrator_login.resources
+G:\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.Form1.resources
+G:\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.Member_login.resources
+G:\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.Membership_information.resources
+G:\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.Personal_consumption_record.resources
+G:\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.Properties.Resources.resources
+G:\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.Records_of_consumption.resources
+G:\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.The_new_member_registration.resources
+G:\Member management system integration\Member management system integration\obj\Debug\Member management system integration.csproj.GenerateResource.Cache
+F:\课设\Member management system integration\Member management system integration\obj\Debug\Member management system integration.csprojResolveAssemblyReference.cache
+C:\Users\耗子\Desktop\Member management system integration\Member management system integration\bin\Debug\Member management system integration.exe.config
+C:\Users\耗子\Desktop\Member management system integration\Member management system integration\obj\Debug\Member management system integration.exe
+C:\Users\耗子\Desktop\Member management system integration\Member management system integration\obj\Debug\Member management system integration.pdb
+C:\Users\耗子\Desktop\Member management system integration\Member management system integration\bin\Debug\Member management system integration.exe
+C:\Users\耗子\Desktop\Member management system integration\Member management system integration\bin\Debug\Member management system integration.pdb
+C:\Users\耗子\Desktop\Member management system integration\Member management system integration\obj\Debug\Member management system integration.csprojResolveAssemblyReference.cache
+C:\Users\耗子\Desktop\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.About_us.resources
+C:\Users\耗子\Desktop\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.Administrator_login.resources
+C:\Users\耗子\Desktop\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.Form1.resources
+C:\Users\耗子\Desktop\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.Member_login.resources
+C:\Users\耗子\Desktop\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.Membership_information.resources
+C:\Users\耗子\Desktop\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.Personal_consumption_record.resources
+C:\Users\耗子\Desktop\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.Properties.Resources.resources
+C:\Users\耗子\Desktop\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.Records_of_consumption.resources
+C:\Users\耗子\Desktop\Member management system integration\Member management system integration\obj\Debug\Member_management_system_integration.The_new_member_registration.resources
+C:\Users\耗子\Desktop\Member management system integration\Member management system integration\obj\Debug\Member management system integration.csproj.GenerateResource.Cache
+C:\Users\耗子\Desktop\Member managemen integration\Member management system integration\bin\Debug\Member management system integration.exe.config
+C:\Users\耗子\Desktop\Member managemen integration\Member management system integration\obj\Debug\Member management system integration.exe
+C:\Users\耗子\Desktop\Member managemen integration\Member management system integration\obj\Debug\Member management system integration.pdb
+C:\Users\耗子\Desktop\Member managemen integration\Member management system integration\obj\Debug\Member management system integration.csprojResolveAssemblyReference.cache
+C:\Users\耗子\Desktop\Member managemen integration\Member management system integration\obj\Debug\Member_management_system_integration.About_us.resources
+C:\Users\耗子\Desktop\Member managemen integration\Member management system integration\obj\Debug\Member_management_system_integration.Administrator_login.resources
+C:\Users\耗子\Desktop\Member managemen integration\Member management system integration\obj\Debug\Member_management_system_integration.Form1.resources
+C:\Users\耗子\Desktop\Member managemen integration\Member management system integration\obj\Debug\Member_management_system_integration.Membership_information.resources
+C:\Users\耗子\Desktop\Member managemen integration\Member management system integration\obj\Debug\Member_management_system_integration.Properties.Resources.resources
+C:\Users\耗子\Desktop\Member managemen integration\Member management system integration\obj\Debug\Member_management_system_integration.Records_of_consumption.resources
+C:\Users\耗子\Desktop\Member managemen integration\Member management system integration\obj\Debug\Member_management_system_integration.The_new_member_registration.resources
+C:\Users\耗子\Desktop\Member managemen integration\Member management system integration\obj\Debug\Member management system integration.csproj.GenerateResource.Cache
+C:\Users\耗子\Desktop\Member managemen integration\Member management system integration\bin\Debug\Member management system integration.exe
+C:\Users\耗子\Desktop\Member managemen integration\Member management system integration\bin\Debug\Member management system integration.pdb
+F:\win8\Desktop\Member managemen integration\Member management system integration\bin\Debug\Member management system integration.exe.config
+F:\win8\Desktop\Member managemen integration\Member management system integration\obj\Debug\Member management system integration.exe
+F:\win8\Desktop\Member managemen integration\Member management system integration\obj\Debug\Member management system integration.pdb
+F:\win8\Desktop\Member managemen integration\Member management system integration\bin\Debug\Member management system integration.exe
+F:\win8\Desktop\Member managemen integration\Member management system integration\bin\Debug\Member management system integration.pdb
+F:\win8\Desktop\Member managemen integration\Member management system integration\obj\Debug\Member management system integration.csprojResolveAssemblyReference.cache
+F:\win8\Desktop\Member managemen integration\Member management system integration\obj\Debug\Member_management_system_integration.About_us.resources
+F:\win8\Desktop\Member managemen integration\Member management system integration\obj\Debug\Member_management_system_integration.Administrator_login.resources
+F:\win8\Desktop\Member managemen integration\Member management system integration\obj\Debug\Member_management_system_integration.Form1.resources
+F:\win8\Desktop\Member managemen integration\Member management system integration\obj\Debug\Member_management_system_integration.Membership_information.resources
+F:\win8\Desktop\Member managemen integration\Member management system integration\obj\Debug\Member_management_system_integration.Properties.Resources.resources
+F:\win8\Desktop\Member managemen integration\Member management system integration\obj\Debug\Member_management_system_integration.Records_of_consumption.resources
+F:\win8\Desktop\Member managemen integration\Member management system integration\obj\Debug\Member_management_system_integration.The_new_member_registration.resources
+F:\win8\Desktop\Member managemen integration\Member management system integration\obj\Debug\Member management system integration.csproj.GenerateResource.Cache
+F:\win8\Desktop\Member managemen integration\Member management system integration\bin\Debug\mysql.data.dll
